@@ -1,4 +1,4 @@
-package W01_FirstStepsInCoding_Lab;
+package W01_FirstStepsInCoding.Lab;
 
 public class Nums1To10_02 {
 

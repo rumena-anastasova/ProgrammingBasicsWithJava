@@ -1,15 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="81b8f609-23c5-4cc3-815d-2d89d0fc0c50" name="Changes" comment="" />
+    <list default="true" id="81b8f609-23c5-4cc3-815d-2d89d0fc0c50" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/W03_ConditionalStatementsAdvance/Lab/DayOfWeek_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Exercise/BasketballEquipment_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Exercise/BasketballEquipment_08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Exercise/DepositCalculator_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Exercise/DepositCalculator_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Exercise/FishTank_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Exercise/FishTank_09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Exercise/FoodDelivery_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Exercise/FoodDelivery_07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Exercise/RadiansToDegrees_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Exercise/RadiansToDegrees_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Exercise/Repainting_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Exercise/Repainting_06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Exercise/SuppliesForSchool_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Exercise/SuppliesForSchool_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Exercise/USDToBGN_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Exercise/USDToBGN_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Exercise/VacationBooksList_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Exercise/VacationBooksList_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Lab/ConcatenateData_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Lab/ConcatenateData_06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Lab/GreetingByName_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Lab/GreetingByName_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Lab/HelloSoftUni_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Lab/HelloSoftUni_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Lab/InchesToCentimeters_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Lab/InchesToCentimeters_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Lab/Nums1To10_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Lab/Nums1To10_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Lab/PetShop_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Lab/PetShop_08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Lab/ProjectsCreation_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Lab/ProjectsCreation_07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Lab/RectangleArea_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Lab/RectangleArea_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Lab/YardGreening_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W01_FirstStepsInCoding/Lab/YardGreening_09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W02_ConditionalStatements/Exercise/BonusScore_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W02_ConditionalStatements/Exercise/BonusScore_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W02_ConditionalStatements/Exercise/GodzillaVsKong_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W02_ConditionalStatements/Exercise/GodzillaVsKong_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W02_ConditionalStatements/Exercise/SumSeconds_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W02_ConditionalStatements/Exercise/SumSeconds_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W02_ConditionalStatements/Exercise/TimePlus15Minutes_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W02_ConditionalStatements/Exercise/TimePlus15Minutes_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W02_ConditionalStatements/Exercise/ToyShop_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W02_ConditionalStatements/Exercise/ToyShop_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W02_ConditionalStatements/Lab/AreaOfFigures_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W02_ConditionalStatements/Lab/AreaOfFigures_07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W02_ConditionalStatements/Lab/EvenOrOdd_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W02_ConditionalStatements/Lab/EvenOrOdd_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W02_ConditionalStatements/Lab/ExcellentResult_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W02_ConditionalStatements/Lab/ExcellentResult_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W02_ConditionalStatements/Lab/GreaterNumber_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W02_ConditionalStatements/Lab/GreaterNumber_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W02_ConditionalStatements/Lab/Number100To200_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W02_ConditionalStatements/Lab/Number100To200_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W02_ConditionalStatements/Lab/PasswordGuess_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W02_ConditionalStatements/Lab/PasswordGuess_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W02_ConditionalStatements/Lab/SpeedInfo_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W02_ConditionalStatements/Lab/SpeedInfo_06.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2b1oo2rqAVzCetaWdLTzgNY1cMe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -18,11 +66,123 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AreaOfFigures_07.executor": "Run",
+    "Application.BonusScore_02.executor": "Run",
+    "Application.DayOfWeek_01.executor": "Run",
+    "Application.EvenOrOdd_03.executor": "Run",
+    "Application.ExcellentResult_01.executor": "Run",
+    "Application.GodzillaVsKong_05.executor": "Run",
+    "Application.GreaterNumber_02.executor": "Debug",
+    "Application.Number100To200_05.executor": "Run",
+    "Application.Number100То200_05.executor": "Run",
+    "Application.PasswordGuess_04.executor": "Run",
+    "Application.SpeedInfo_06.executor": "Run",
+    "Application.SumSeconds_01.executor": "Run",
+    "Application.TimePlus15Minutes_03.executor": "Run",
+    "Application.ToyShop_04.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Kiril' s PC/Desktop/Java/Java Projects",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kiril' s PC\Desktop\Java\Java Projects\ProgrammingBasicsWithJava\src\W02_ConditionalStatements\Lab" />
+      <recent name="C:\Users\Kiril' s PC\Desktop\Java\Java Projects\ProgrammingBasicsWithJava\src\W01_FirstStepsInCoding\Lab" />
+      <recent name="C:\Users\Kiril' s PC\Desktop\Java\Java Projects\ProgrammingBasicsWithJava\src\W01_FirstStepsInCoding\Exercise" />
+      <recent name="C:\Users\Kiril' s PC\Desktop\Java\Java Projects\ProgrammingBasicsWithJava\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="W01FirstStepsInCoding" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DayOfWeek_01">
+    <configuration name="BonusScore_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W02_ConditionalStatements.Exercise.BonusScore_02" />
+      <module name="ProgrammingBasicsWithJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="W02_ConditionalStatements.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DayOfWeek_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W03_ConditionalStatementsAdvance.Lab.DayOfWeek_01" />
+      <module name="ProgrammingBasicsWithJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="W03_ConditionalStatementsAdvance.Lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GodzillaVsKong_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W02_ConditionalStatements.Exercise.GodzillaVsKong_05" />
+      <module name="ProgrammingBasicsWithJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="W02_ConditionalStatements.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimePlus15Minutes_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W02_ConditionalStatements.Exercise.TimePlus15Minutes_03" />
+      <module name="ProgrammingBasicsWithJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="W02_ConditionalStatements.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToyShop_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W02_ConditionalStatements.Exercise.ToyShop_04" />
+      <module name="ProgrammingBasicsWithJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="W02_ConditionalStatements.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DayOfWeek_01" />
+        <item itemvalue="Application.GodzillaVsKong_05" />
+        <item itemvalue="Application.ToyShop_04" />
+        <item itemvalue="Application.TimePlus15Minutes_03" />
+        <item itemvalue="Application.BonusScore_02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

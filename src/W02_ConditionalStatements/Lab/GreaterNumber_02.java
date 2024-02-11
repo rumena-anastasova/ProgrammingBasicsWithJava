@@ -1,4 +1,4 @@
-package W02_ConditionalStatements_Lab;
+package W02_ConditionalStatements.Lab;
 
 import java.util.Scanner;
 public class GreaterNumber_02 {
